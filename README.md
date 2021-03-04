@@ -1,2 +1,2 @@
-# Assignment2_NumpyBasicsToAdvance
-Assignment2 Numpy Basics To Advance
+# Piaic Aic Assignments
+All Assignments
